@@ -10,7 +10,7 @@ services:
     volumes:
       - mysql-volumes:/var/lib/mysql
     environment:
-      MYSQL_ROOT_PASSWORD: YQ;~"u/De{3_}FSx<gN)s?
+      MYSQL_ROOT_PASSWORD: laravelroot
       MYSQL_DATABASE: db_nginx
 
   laravel-app:
