@@ -1,7 +1,7 @@
 # Dockerización
 
 * PHP 8.2
-* Laravel 10 (Latest)
+* Laravel 11 (Latest)
 * Nginx (Latest)
 * MySQL (Latest)
 
